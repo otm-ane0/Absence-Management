@@ -1,0 +1,1 @@
+Route::get('/api/niveaux/{filiere}', 'NiveauController@getNiveauxParFiliere');
